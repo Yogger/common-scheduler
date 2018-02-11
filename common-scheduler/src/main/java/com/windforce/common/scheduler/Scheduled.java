@@ -6,8 +6,10 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 计划任务触发条件声明注释(使用 Cron 表达式)
- * @author Frank
+ * 
+ * @author Kuang Hao
+ * @since v1.0 2018年2月11日
+ *
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
