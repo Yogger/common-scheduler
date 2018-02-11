@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/3-Server/!svn/ver/7/dev/common/common-scheduler
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/3-Server/!svn/ver/7/dev/common/common-scheduler/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/3-Server/!svn/ver/7/dev/common/common-scheduler/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/3-Server/!svn/ver/7/dev/common/common-scheduler/pom.xml
+END
